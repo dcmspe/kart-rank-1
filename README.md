@@ -31,7 +31,7 @@ Hora				   Piloto	      Nº Volta   Tempo Volta	   Velocidade média por volta
 
 Resultado esperado
 ------------------
-* A partir de um input de um arquivo de log do formato acima, montar o resultado da corrida com as seguintes informações: Posição Chegada, Código Piloto, Nome Piloto, Qtde Voltas Completadas e Tempo Total de Prova
+* A partir de um input de um arquivo de log do formato acima, montar o resultado da corrida com as seguintes informações: **Posição Chegada**, **Código Piloto**, **Nome Piloto**, **Qtde Voltas Completadas** e **Tempo Total de Prova**.
 
 Observações
 ------------
@@ -52,10 +52,10 @@ SOLUÇÃO
 * Seja criativo;
 * Explore ao máximo a orientação a objetos;
 * Crie testes unitários e tente usar TDD;
-* Não é necessário utilizar nenhum framework, procure utilizar os recursos da liguagem.
+* Não é necessário utilizar nenhum framework, procure utilizar os recursos da linguagem;
 
 
 ENTREGA
 =======
 * **Não** faça um fork desse projeto. Crie um repositório no seu perfil do GitHub e nos envie a url;
-* Crie um arquivo SUAS-INSTRUÇÕES.txt para adicionar algum comentário/observação que achar importante.
+* Crie um arquivo SUAS-INSTRUÇÕES.txt para adicionar algum comentário/observação que achar importante;
