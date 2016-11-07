@@ -3,7 +3,7 @@ PROBLEMA
 Dado o seguinte log de uma corrida de Kart:
 
 ```text
-Hora				   Piloto	      Nº Volta   Tempo Volta	   Velocidade média por volta
+Hora				   Piloto	      Nº Volta   Tempo Volta	   Velocidade média da volta
 23:49:08.277 	  038 – F.MASSA		  	  1		1:02.852 			44,275
 23:49:10.858 	  033 – R.BARRICHELLO		  1		1:04.352 			43,243
 23:49:11.075 	  002 – K.RAIKKONEN		  1		1:04.108 			43,408
@@ -35,7 +35,8 @@ Resultado esperado
 
 Observações
 ------------
-* A primeira linha do arquivo pode ser desconsiderada (Hora, Piloto, Nº Volta, Tempo Volta, Velocidade média por volta).
+* A primeira linha do arquivo pode ser desconsiderada (Hora, Piloto, Nº Volta, Tempo Volta, Velocidade média da volta).
+* A corrida termina quando o primeiro colocado completa 4 voltas
 
 
 Bônus
